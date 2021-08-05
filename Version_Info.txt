@@ -16,3 +16,5 @@
 v0 Setting Up: Setting up npm / React for Cyberaserv for VillagerPvP Site & Custom Bots
                Will also includes documentation on how to setup ubuntu -> oracle VM -> Ubuntu Server - GUI Enabled
                once a certain % of this project is completed
+
+v1 Basic Setup: Basic setup testing with JS will most likely combine with Django, will see how things turn out
